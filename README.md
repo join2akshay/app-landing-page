@@ -1,5 +1,6 @@
 # app-landing-page
-used pure bootstrap in this web page.
+it s a single page app download website. 
+* I use bootstrap in this project.
+* Good and light desgin to load fast.
 
-
-### live-link: https://tvibhu12.github.io/app-landing-page/
+### live [demo](https://tvibhu12.github.io/app-landing-page/)
